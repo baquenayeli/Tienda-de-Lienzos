@@ -27,5 +27,8 @@ La aplicación está diseñada para ofrecer recomendaciones personalizadas de li
 Además, contará con un sistema de recomendaciones basado en el estilo de pintura, nivel de experiencia y preferencias de los usuarios, complementado por la posibilidad de valorar y comentar los productos, fomentando la interacción y el intercambio de experiencias dentro de la comunidad artística. Todo esto busca crear una herramienta práctica y eficiente para descubrir, adquirir y evaluar materiales adaptados a las necesidades de cada cliente, impulsando así la creatividad y el acceso al arte.
 
 # MODELO RACIONAL
+<img width="790" height="566" alt="imagen" src="https://github.com/user-attachments/assets/31a6cb13-8037-4e4d-9a89-90fb1dfc913c" />
+
+
 # DESCRIPCION DE LAS TABLAS PRINCIPALES
 # SCRIPT DEL MODELO FISICO
