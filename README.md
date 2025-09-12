@@ -31,6 +31,59 @@ Además, contará con un sistema de recomendaciones basado en el estilo de pintu
 # MODELO RACIONAL
 <img width="790" height="566" alt="imagen" src="https://github.com/user-attachments/assets/31a6cb13-8037-4e4d-9a89-90fb1dfc913c" />
 
-
 # DESCRIPCION DE LAS TABLAS PRINCIPALES
+ **1. Productos**
+**Propósito:** Almacenar información de los productos que se ofrecen, incluyendo su nombre, descripción y precio. Esta tabla funciona como catálogo para referenciar los productos en los pedidos.
+
+**Relevancias:**
+
+* Permite mantener un registro completo de los productos disponibles para la venta.
+
+* Facilita la actualización de información de productos, como precio o descripción, sin afectar los pedidos históricos.
+
+* Sirve como referencia para los detalles de cada pedido, evitando duplicación de datos.
+
+**2. Tabla: pedidos_lienzos**
+**Propósito:** Registrar los pedidos realizados por los clientes, incluyendo información del cliente, vendedor y fecha de registro.
+
+**Relevancias:**
+
+* Centraliza la información de todos los pedidos realizados.
+
+* Permite identificar qué cliente realizó cada pedido y quién fue el vendedor responsable.
+
+* Facilita el seguimiento del historial de pedidos y la gestión de ventas.
+
+**3. Detalles_pedido**
+
+**Propósito:** Almacenar los detalles de cada producto incluido en un pedido, como la cantidad y el precio unitario.
+**Relevancias:**
+
+* Permite desglosar un pedido en los productos que contiene, con cantidades y precios específicos.
+
+* Evita redundancia de información, relacionando pedidos con productos mediante llaves foráneas.
+
+* Facilita cálculos de totales y análisis de ventas por producto.
+
+**4. Tabla: clientes**
+
+**Propósito:** Guardar la información de los clientes que realizan pedidos, como nombre y número de contacto.
+**Relevancias:**
+
+* Permite relacionar cada pedido con un cliente específico.
+
+* Facilita la gestión de clientes y el contacto para seguimiento o promociones.
+
+* Proporciona información para análisis de ventas por cliente o fidelización.
+
+**5. Vendedores**
+
+**Propósito:** Registrar los vendedores que atienden a los clientes y gestionan los pedidos.
+**Relevancias:** 
+
+* Permite asignar pedidos a un vendedor específico.
+
+* Facilita el control de desempeño y ventas por vendedor.
+
+* Proporciona información para incentivos o comisiones basadas en ventas.
 # SCRIPT DEL MODELO FISICO
