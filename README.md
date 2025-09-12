@@ -1,3 +1,4 @@
 # Tienda-de-Lienzo
 Venta de Lienzos
-![Logo de la Tienda](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d0031ff-2f30-46f2-8b36-9d4313615df7" />)
+![Logo de la Tienda](<img width="1024" height="1024" alt="lienzos" src="https://github.com/user-attachments/assets/7eb4f219-582e-4427-8926-da53ed29d9e5" />
+)
