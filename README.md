@@ -28,3 +28,4 @@ Además, contará con un sistema de recomendaciones basado en el estilo de pintu
 
 # MODELO RACIONAL
 # DESCRIPCION DE LAS TABLAS PRINCIPALES
+# SCRIPT DEL MODELO FISICO
