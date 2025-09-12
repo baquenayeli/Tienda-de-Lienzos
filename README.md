@@ -1,2 +1,2 @@
-# Tienda-de-Lienzos
-examen venta de lienzos
+# Tienda-de-Lienzo
+Venta de Lienzos
