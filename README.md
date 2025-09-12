@@ -87,3 +87,4 @@ Además, contará con un sistema de recomendaciones basado en el estilo de pintu
 
 * Proporciona información para incentivos o comisiones basadas en ventas.
 # SCRIPT DEL MODELO FISICO
+[Presiona aquí](https://github.com/baquenayeli/Tienda-de-Lienzos/tree/ccddd7730790bbbaec99ed031d76f9ed3cccb630/Modelo%20Fisico)
