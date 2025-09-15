@@ -1,4 +1,4 @@
-# //////////\\\\\\\\---| --Tienda-de-Lienzo--| ---//////////\\\\\\\\
+# /////////\\\\\\\\---| --Tienda-de-Lienzo--| ---//////////\\\\\\\
 Venta de Lienzos
 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fc7fc7ca-1189-4757-ad36-1a84c2c47e03" />
