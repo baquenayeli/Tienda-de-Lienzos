@@ -9,6 +9,7 @@ Repositorio de un app que vender Lienzos
 # INTRODUCCIÓN
 La Tienda de Lienzos surge como un espacio dedicado a la venta de lienzos de alta calidad, pensados para artistas, estudiantes y amantes de la pintura que buscan un soporte confiable para expresar su creatividad. Nuestro objetivo es ofrecer productos duraderos, accesibles y adaptados a diferentes necesidades, desde pequeños formatos para principiantes hasta lienzos de gran tamaño para obras profesionales. Esta iniciativa no solo busca comercializar materiales, sino también impulsar el arte como medio de expresión y desarrollo personal, fomentando un entorno en el que cada cliente encuentre inspiración y confianza al momento de crear.
 
+
 # OBJETIVOS   
 * **Recomendación personalizada de productos:** Sugerir lienzos y materiales artísticos basados en el estilo de pintura, nivel de experiencia y preferencias del cliente (formatos pequeños, medianos o grandes, lienzos con bastidor, entre otros).
 
