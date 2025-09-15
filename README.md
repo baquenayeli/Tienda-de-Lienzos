@@ -19,7 +19,7 @@ La Tienda de Lienzos surge como un espacio dedicado a la venta de lienzos de alt
 
 * **Compra y entrega de productos de manera conveniente:** Facilitar la adquisición directa de lienzos y accesorios artísticos, con opciones de entrega rápida, seguimiento de pedidos y garantía de calidad.
 
-# CONTEXTO DELPROBLEMA
+# CONTEXTO DEL PROBLEMA
 En la actualidad, muchos artistas, estudiantes y aficionados a la pintura enfrentan dificultades para encontrar lienzos de calidad que se ajusten a sus necesidades y presupuestos. En el mercado local, la oferta suele ser limitada, con precios elevados o productos que no cumplen con los estándares requeridos para trabajos artísticos duraderos. Esta situación no solo afecta la producción de obras, sino que también limita el desarrollo creativo, especialmente en personas que recién inician en el mundo de la pintura.
 
 Ante esta problemática surge la necesidad de crear la Tienda de Lienzos, un espacio especializado en ofrecer variedad de formatos, materiales resistentes y precios accesibles, acompañado de asesoría y recursos que fomenten la práctica artística. De esta manera, se busca cubrir la falta de opciones adecuadas en el mercado y promover un entorno donde el arte sea accesible para todos.
