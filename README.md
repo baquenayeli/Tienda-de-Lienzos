@@ -4,7 +4,7 @@ Venta de Lienzos
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fc7fc7ca-1189-4757-ad36-1a84c2c47e03" />
 
 
-# PROYECTO ABP       
+# PROYECTO ABP      
 Repositorio de un app que vender Lienzos
 # INTRODUCCIÓN
 La Tienda de Lienzos surge como un espacio dedicado a la venta de lienzos de alta calidad, pensados para artistas, estudiantes y amantes de la pintura que buscan un soporte confiable para expresar su creatividad. Nuestro objetivo es ofrecer productos duraderos, accesibles y adaptados a diferentes necesidades, desde pequeños formatos para principiantes hasta lienzos de gran tamaño para obras profesionales. Esta iniciativa no solo busca comercializar materiales, sino también impulsar el arte como medio de expresión y desarrollo personal, fomentando un entorno en el que cada cliente encuentre inspiración y confianza al momento de crear.
